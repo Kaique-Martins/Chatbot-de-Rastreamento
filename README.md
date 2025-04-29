@@ -19,3 +19,5 @@ Um chatbot simulado que fornece informações sobre pedidos fictícios, incluind
 2. Execute o script Python:
    ```bash
    python chatbot_aliexpress.py
+
+##LEMBRANDO QUE ESSE PROJETO É INTEIRAMENTE COM O PROPÓSITO DE PRATICAR MINHAS HABILIDADES E PRINCIPALMENTE PARA FINS DIDÁTICOS##
